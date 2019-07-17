@@ -1,0 +1,4 @@
+[run]
+omit =
+    ./audittrail/models.py
+    ./audittrail/apps.py

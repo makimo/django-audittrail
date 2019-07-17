@@ -1,0 +1,6 @@
+# This allow me to install only those libs when testing with tox.
+
+pytest==3.6.3
+pytest-django==3.3.2
+pytest-cov>=2.7.1
+hypothesis==4.8.0

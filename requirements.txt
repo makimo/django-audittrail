@@ -1,0 +1,13 @@
+django==2.2
+mypy==0.701
+
+# Project setup.
+setuptools==41.0.1
+
+# Wheel for PyPI installs.
+wheel==0.33.4
+
+# Twine for secured PyPI uploads.
+twine==1.13.0
+
+-r requirements/tests.txt
