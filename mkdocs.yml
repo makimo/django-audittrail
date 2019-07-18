@@ -1,0 +1,19 @@
+site_name: django-audittrail
+site_description: Register and store users actions in database
+
+repo_url: https://github.com/makimo/django-audittrail/
+
+theme:
+    name: readthedocs
+
+markdown_extensions:
+    - toc:
+        anchorlink: True
+        baselevel: 2
+        permalink: "#"
+
+nav:
+    - Home: 'index.md'
+    - Usage: 'usage.md'
+    - API documentation: 'api.md'
+    - License: 'license.md'
